@@ -1,0 +1,23 @@
+# For KiCad 7: https://www.kicad.org/
+
+# Temporary KiCAD files
+~*.lck
+?auto_saved_files?
+fp-info-cache
+
+# Backup files
+*-backups/
+*.*-bak
+*.bak
+
+# Local settings (visibility etc)
+*.kicad_prl
+
+# Ignore a tmp directory, wherever you meet it
+tmp/
+
+# Netlist files (exported from Eeschema)
+*.net
+
+# PCB Editor File>export>Specctra DSN (autorouter)
+*.dsn
