@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SilkScreenTests")(type "KiCad")(uri "${KIPRJMOD}/../_SilkScreenTests.pretty")(options "")(descr ""))
+)
