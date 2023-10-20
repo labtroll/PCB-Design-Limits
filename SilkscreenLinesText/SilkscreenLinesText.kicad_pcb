@@ -95,6 +95,7 @@
     )
   )
 
+  (property "FILE" "SilkscreenLinesText.kicad_pcb")
   (property "PCB_INFO" "Lines.kicad_pcb - ${LAYER}, rev ${REVISION}, issue ${ISSUE_DATE}")
 
   (net 0 "")
@@ -2688,10 +2689,10 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp a5f058dd-c284-4c39-b348-c896f834b387))
   (gr_arc (start 51.335 41.195) (mid 52.799466 37.659466) (end 56.335 36.195)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp aa43689b-95ec-4626-93c9-989684230932))
-  (gr_text "Lines.kicad_pcb - ${LAYER}, rev ${REVISION}, issue ${ISSUE_DATE}" (at 139.335 37.195) (layer "B.SilkS") (tstamp 8867584e-9403-433a-b3d4-021e6e9e9534)
+  (gr_text "${FILE} - ${LAYER}, rev ${REVISION}, issue ${ISSUE_DATE}" (at 139.335 37.195) (layer "B.SilkS") (tstamp 8867584e-9403-433a-b3d4-021e6e9e9534)
     (effects (font (size 1 1) (thickness 0.15)) (justify left top mirror))
   )
-  (gr_text "Lines.kicad_pcb - ${LAYER}, rev ${REVISION}, issue ${ISSUE_DATE}" (at 63.335 37.195) (layer "F.SilkS") (tstamp 1eed1bc7-ffaf-4ecd-a94a-81d89e90b1fc)
+  (gr_text "${FILE} - ${LAYER}, rev ${REVISION}, issue ${ISSUE_DATE}" (at 63.335 37.195) (layer "F.SilkS") (tstamp 1eed1bc7-ffaf-4ecd-a94a-81d89e90b1fc)
     (effects (font (size 1 1) (thickness 0.15)) (justify left top))
   )
   (gr_text "JLCJLCJLCJLC" (at 146.335 37.195) (layer "F.SilkS") (tstamp 4dbbb787-6cb2-4a10-be70-1eea1c6c40f7)

@@ -484,6 +484,7 @@
   },
   "sheets": [],
   "text_variables": {
+    "FILE": "SilkscreenLinesText.kicad_pcb",
     "PCB_INFO": "Lines.kicad_pcb - ${LAYER}, rev ${REVISION}, issue ${ISSUE_DATE}"
   }
 }
