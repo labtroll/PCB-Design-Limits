@@ -1,10 +1,10 @@
-(footprint "Silkscreen_Graphics_0.15mm" (version 20221018) (generator pcbnew)
+(footprint "Lines_Silkscreen_25x25mm_0.15mm" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (fp_text reference "~" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 21f81d09-eba0-403f-a0a6-ae7a318ac716)
   )
-  (fp_text value "Width: 0.15 mm width" (at 0 -1 unlocked) (layer "F.SilkS")
+  (fp_text value "0.15 mm width" (at 0 -1 unlocked) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
     (tstamp a6650163-89aa-4673-9200-543e52f26ce2)
   )

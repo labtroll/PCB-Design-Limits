@@ -1,4 +1,4 @@
-(footprint "Silkscreen_Text_DIRECTION_1.0_1.0_0.15" (version 20221018) (generator pcbnew)
+(footprint "Texts_Silkscreen_DIRECTION_1.0_1.0_0.15" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (fp_text reference "~" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
